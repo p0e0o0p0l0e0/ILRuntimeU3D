@@ -11,3 +11,5 @@ Output/
 ILRuntimeDemo/Packages/packages-lock.json
 ILRuntimeDemo/.vsconfig
 /out
+ILRuntimeDemo/Assets/XLua/Gen/
+ILRuntimeDemo/Assembly-CSharp.csproj
